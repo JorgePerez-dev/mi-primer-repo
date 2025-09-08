@@ -1,2 +1,9 @@
-# mi-primer-repo
-My first repository to practice Git and Github
+# My First Repository 🚀
+
+This repo contains my first Python exercises:
+
+- `hola.py`: prints a greeting message.
+- `calculadora.py`: simple calculator with error handling.
+
+---
+✨ More projects coming soon!
